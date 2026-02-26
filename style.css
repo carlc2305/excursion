@@ -1,0 +1,52 @@
+/* Global Styles */
+
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+    margin: 0;
+}
+
+/* Main Heading */
+
+h1 {
+    color: white;
+    font-size: 50px;
+    font-weight: normal;
+}
+
+/* Download Link */
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+/* Subheading */
+
+h2 {
+    color: white;
+    font-size: 42px;
+    font-weight: 300;
+}
+
+/* Supporting Paragraph */
+
+p {
+    color: gray;
+    font-size: 21px;
+}
+
+/* Images */
+
+img {
+    margin-top: 20px;
+}
+
+/* Footer */
+
+footer {
+    text-align: right;
+    color: gray;
+    padding: 20px;
+}
